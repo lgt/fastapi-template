@@ -1,3 +1,7 @@
+> 🚀 **This is a GitHub template repository!** Click the "Use this template" button to create a new repository based on this template.
+
+[![Use this template](https://img.shields.io/badge/Use%20this%20template-2ea44f?style=for-the-badge)](https://github.com/lgt/fastapi-template/generate)
+
 # FastAPI Template
 
 A simple, clean FastAPI template to get you started quickly.
@@ -19,7 +23,7 @@ Click the "Use this template" button on GitHub to create your new repository.
 
 ```bash
 # Clone your new repository
-git clone https://github.com/lgt/fastapi-template
+git clone https://github.com/yourusername/your-new-project.git
 cd your-new-project
 
 # Create virtual environment
