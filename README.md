@@ -19,7 +19,7 @@ Click the "Use this template" button on GitHub to create your new repository.
 
 ```bash
 # Clone your new repository
-git clone https://github.com/yourusername/your-new-project.git
+git clone https://github.com/lgt/fastapi-template
 cd your-new-project
 
 # Create virtual environment
